@@ -13,4 +13,5 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/full_mango.mk
+    $(LOCAL_DIR)/full_mango.mk \
+    $(LOCAL_DIR)/nameless_mango.mk
